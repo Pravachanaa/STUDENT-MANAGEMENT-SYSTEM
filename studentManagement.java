@@ -13,7 +13,7 @@ class Student {
     }
 }
 
-public class studentManagement {
+public class StudentManagement {
     public static void main(String[] args) {
         ArrayList<Student> students = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
